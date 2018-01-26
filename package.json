@@ -1,6 +1,6 @@
 {
   "name": "@twist/router",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Adobe Systems Inc.",
   "repository": "https://github.com/adobe/twist-router",
   "license": "Apache-2.0",
@@ -15,8 +15,7 @@
     "preversion": "npm run linter && npm run test",
     "postversion": "git push && git push --tags"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "@twist/core": "^0.1.2",
     "@twist/react": "^0.1.4"
