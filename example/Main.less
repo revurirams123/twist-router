@@ -1,0 +1,20 @@
+
+:local(.overlay) {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0, 0.5);
+    transition: 0.5s;
+}
+
+:local(.overlayContents) {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    transform: translate(-50%,-50%);
+}

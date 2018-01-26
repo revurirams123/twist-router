@@ -1,0 +1,13 @@
+{
+    "libraries": [
+        "@twist/core",
+        "@twist/react"
+    ],
+    "decorators": [
+        [ "Route", { "inherits": { "module": "@twist/router/src/BaseRoute", "export": "default" } } ]
+    ],
+    "components": [
+        [ "route:provider", { "module": "@twist/router/src/components/Provider", "export": "default" } ],
+        [ "route:link", { "module": "@twist/router/src/components/Link", "export": "default" } ]
+    ]
+}
