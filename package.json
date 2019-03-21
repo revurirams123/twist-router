@@ -18,11 +18,11 @@
   "dependencies": {},
   "peerDependencies": {
     "@twist/core": "git+https://git@github.com/revurirams123/twist.git",
-    "@twist/react": "git+https://git@github.com/revurirams123/twist-router.git"
+    "@twist/react": "git+https://git@github.com/revurirams123/react-twist.git"
   },
   "devDependencies": {
     "@twist/core": "git+https://git@github.com/revurirams123/twist.git",
-    "@twist/react": "git+https://git@github.com/revurirams123/twist-router.git",
+    "@twist/react": "git+https://git@github.com/revurirams123/react-twist.git",
     "@twist/react-webpack-plugin": "git+https://git@github.com/revurirams123/react-twist-webpack-plugin.git",
     "@twist/eslint-plugin-core": "^0.1.2",
     "autoprefixer": "6.4.0",
