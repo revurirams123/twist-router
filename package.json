@@ -21,7 +21,7 @@
     "@twist/react": "^0.1.4"
   },
   "devDependencies": {
-    "@twist/core": "^0.1.2",
+    "@twist/core": "git+https://git@github.com/revurirams123/twist.git",
     "@twist/react": "^0.1.4",
     "@twist/react-webpack-plugin": "^0.1.0",
     "@twist/eslint-plugin-core": "^0.1.2",
